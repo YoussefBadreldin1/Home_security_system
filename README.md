@@ -67,6 +67,7 @@ Plots and filters real-time data from the Arduino's analog input A5, and Monitor
 
 
 ## Hardware Setup
+![Circuit Diagram](circuit_(2).svg "Circuit Diagram")
 
 
 ## Contributing
